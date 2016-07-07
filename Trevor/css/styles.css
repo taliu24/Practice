@@ -1,0 +1,49 @@
+body {
+  background-color: lightblue;
+}
+.center {
+  text-align:center;
+}
+
+a{
+  background-color: lightpink;
+  border-style: solid;
+  border-radius: 5%;
+  border-color:transparent;
+  text-decoration: none;
+  transition: font-size 1s;
+}
+
+a:hover{
+  background-color:fuchsia;
+  font-size: 35px;
+}
+
+ul{
+color: black;
+list-style-type: none;
+}
+
+li{
+display: inline;
+}
+p{
+color:red;
+font-family: serif;
+}
+
+h4 {
+  color:Green;
+}
+.border{
+  border-style: solid;
+  border-color: black;
+}
+.round-border{
+  border-radius: 10%;
+  border-style: outset;
+}
+.monospace{
+  font-family: monospace;
+  font-size: 30;
+}
